@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nom de domaine à vendre "serrurierparis.fr" appeler au 01.45.83.05.06</title>
+</head>
+<body>
+    <h1>Ce nom de domaine est à vendre</h1>
+    <p>Pour plus d'informations, veuillez contacter : <a href="mailto:your-email@example.com">your-email@example.com</a></p>
+</body>
+</html>
